@@ -1,0 +1,36 @@
+{
+  "name": "api-fest",
+  "version": "1.0.0",
+  "description": "api fest ",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniketk13/API-Fest.git"
+  },
+  "keywords": [
+    "API",
+    "FEST",
+    "PRODUCT INVENTORY"
+  ],
+  "authors": [
+    "Kumar Kalyan <kum9748ar@gmail.com> ",
+    "Aniket Khajanchi <ani.khajanchi257@gmail.com>",
+    "Pranav Goel <pranavgoel2012@gmail.com>",
+    "Sairam Nomula <sairamnomula14@gmail.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aniketk13/API-Fest/issues"
+  },
+  "homepage": "https://github.com/aniketk13/API-Fest#readme",
+  "dependencies": {
+    "boom": "^7.3.0",
+    "fastify": "^3.27.0",
+    "mongodb": "^4.3.1",
+    "mongoose": "^6.1.8",
+    "nodemon": "^2.0.15"
+  }
+}
