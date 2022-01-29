@@ -28,7 +28,10 @@ That’s how we came up with a **Smart Inventory Manager API.**
   ```
   POST: adds an order entry
 
-## Team ✨
+### Important Links 🔴
+1. <a href="https://www.youtube.com/watch?v=3a_tpykoREk">Video Demo</a>
+
+### Team ✨
 <table>
   <tr>
     <td align="center"><a href="https://github.com/aniketk13"><img src="https://avatars.githubusercontent.com/u/67803800?v=4" width="100px;" alt=""/><br /><sub><b>Aniket Khajanchi</b></sub></a></td>
@@ -37,3 +40,8 @@ That’s how we came up with a **Smart Inventory Manager API.**
     <td align="center"><a href="https://github.com/iipranavii"><img src="https://avatars.githubusercontent.com/u/67915580?v=4" width="100px;" alt=""/><br /><sub><b>Pranav</b></sub></a></td>
   </tr>
 </table>
+
+
+### Screenshots 📸
+
+![image](https://user-images.githubusercontent.com/78247889/151657930-34b4e050-8006-4ff6-92c0-0ccd59df8459.png)
