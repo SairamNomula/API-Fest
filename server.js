@@ -47,7 +47,9 @@ function getQuantity(id, query) {
     return 1
 }
 
-
+fastify.get('/', async (req, res) => {
+    res.send("welcome to product inventory")
+})
 //Get all products
 fastify.get('/products', async (req, res) => {
     product.find({}).exec((err, data) => {
