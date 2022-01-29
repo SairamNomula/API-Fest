@@ -37,3 +37,7 @@ That’s how we came up with a **Smart Inventory Manager API.**
     <td align="center"><a href="https://github.com/iipranavii"><img src="https://avatars.githubusercontent.com/u/67915580?v=4" width="100px;" alt=""/><br /><sub><b>Pranav</b></sub></a></td>
   </tr>
 </table>
+
+### Screenshots 📸
+
+![image](https://user-images.githubusercontent.com/78247889/151657930-34b4e050-8006-4ff6-92c0-0ccd59df8459.png)
