@@ -171,7 +171,6 @@ components:
     product:
       type: object
       required:
-        - id
         - name
         - price
         - quantity
