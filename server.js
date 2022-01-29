@@ -1,8 +1,9 @@
 const mongoose = require('mongoose')
-const url = "mongodb://localhost:27017/productdb";
 const product = require('./helpers/productmodel')
 const order = require('./helpers/ordermodel')
-const boom = require('boom')
+require('dotenv').config()
+const url = process.env.MONGO_URI
+const port = process.env.PORT || 8000
 mongoose.connect(url, { useNewUrlParser: true }, (err) => {
     if (!err) {
         console.log('connection successfull ')
@@ -112,7 +113,7 @@ fastify.post('/orders/:id', async (req, res) => {
 // Run the server!
 const start = async () => {
     try {
-        await fastify.listen(3000)
+        await fastify.listen(port)
     } catch (err) {
         fastify.log.error(err)
         process.exit(1)
