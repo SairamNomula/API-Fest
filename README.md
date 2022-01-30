@@ -45,3 +45,6 @@ That’s how we came up with a **Smart Inventory Manager API.**
 ### Screenshots 📸
 
 ![image](https://user-images.githubusercontent.com/78247889/151657930-34b4e050-8006-4ff6-92c0-0ccd59df8459.png)
+
+<!-- ### Result - Top 10 🥳
+![image](https://user-images.githubusercontent.com/78247889/151688937-8862a5c7-fd49-4510-a38c-0d7d89513094.png) -->
