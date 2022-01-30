@@ -1,4 +1,4 @@
-<h1 align='center'>Team 51 | API Fest 2022</h1>
+<h1 align='center'>🔥 Team 51 | API Fest 2022 🔥</h1>
 
 ## Introduction
 While managing a Large Inventory, Managing and Updating it can be quite a hassle. Problems like outdated database and mismatch information are common in such situation. We devised a solution to have a single database which can be accessed by anyone through an API, and will be a one-stop place to Update, Create and Modify the items in the inventory.
@@ -46,5 +46,5 @@ That’s how we came up with a **Smart Inventory Manager API.**
 
 ![image](https://user-images.githubusercontent.com/78247889/151657930-34b4e050-8006-4ff6-92c0-0ccd59df8459.png)
 
-<!-- ### Result - Top 10 🥳
-![image](https://user-images.githubusercontent.com/78247889/151688937-8862a5c7-fd49-4510-a38c-0d7d89513094.png) -->
+### Result - Top 10 🥳
+![image](https://user-images.githubusercontent.com/78247889/151688937-8862a5c7-fd49-4510-a38c-0d7d89513094.png)
